@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0.Design And Modeling", "0.Design And Modeling", "{B25ADD95-5072-49DD-9EED-B45CA2939458}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Program", "1.Program", "{81DE24A7-0B1E-4301-B24E-94D6FA3476B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0.Presentation", "0.Presentation", "{9555B197-9323-4B94-96D4-ECF9B02B5C7B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Application", "1.Application", "{696B0A8A-6214-496E-B171-A8B3B8A84B70}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Domain", "2.Domain", "{972D505E-0E23-431B-BCAA-80E398654262}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Infrastructure", "3.Infrastructure", "{8021D7E9-4FF5-4E29-93C3-140A1515B412}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eLinden.Web.Agent", "1.Program\0.Presentation\eLinden.Web.Agent\eLinden.Web.Agent.csproj", "{F2F7BB98-75AD-4B05-8871-07D3345F719F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2F7BB98-75AD-4B05-8871-07D3345F719F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F7BB98-75AD-4B05-8871-07D3345F719F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F7BB98-75AD-4B05-8871-07D3345F719F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F7BB98-75AD-4B05-8871-07D3345F719F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9555B197-9323-4B94-96D4-ECF9B02B5C7B} = {81DE24A7-0B1E-4301-B24E-94D6FA3476B4}
+		{696B0A8A-6214-496E-B171-A8B3B8A84B70} = {81DE24A7-0B1E-4301-B24E-94D6FA3476B4}
+		{972D505E-0E23-431B-BCAA-80E398654262} = {81DE24A7-0B1E-4301-B24E-94D6FA3476B4}
+		{8021D7E9-4FF5-4E29-93C3-140A1515B412} = {81DE24A7-0B1E-4301-B24E-94D6FA3476B4}
+		{F2F7BB98-75AD-4B05-8871-07D3345F719F} = {9555B197-9323-4B94-96D4-ECF9B02B5C7B}
+	EndGlobalSection
+EndGlobal

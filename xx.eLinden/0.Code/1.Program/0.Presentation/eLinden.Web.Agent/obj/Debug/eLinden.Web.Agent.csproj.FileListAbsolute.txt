@@ -1,0 +1,5 @@
+D:\00.Project\xx.eLinden\0.Code\1.Program\0.Presentation\eLinden.Web.Agent\bin\eLinden.Web.Agent.dll
+D:\00.Project\xx.eLinden\0.Code\1.Program\0.Presentation\eLinden.Web.Agent\bin\eLinden.Web.Agent.pdb
+D:\00.Project\xx.eLinden\0.Code\1.Program\0.Presentation\eLinden.Web.Agent\obj\Debug\eLinden.Web.Agent.csprojResolveAssemblyReference.cache
+D:\00.Project\xx.eLinden\0.Code\1.Program\0.Presentation\eLinden.Web.Agent\obj\Debug\eLinden.Web.Agent.dll
+D:\00.Project\xx.eLinden\0.Code\1.Program\0.Presentation\eLinden.Web.Agent\obj\Debug\eLinden.Web.Agent.pdb
